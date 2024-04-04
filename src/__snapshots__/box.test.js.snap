@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match the snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      style="background-color: black; height: 20px; width: 25px;"
+    />
+    <button>
+      Remove The Box!
+    </button>
+  </div>
+</DocumentFragment>
+`;
